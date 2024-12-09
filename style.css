@@ -16,7 +16,7 @@ body {
 }
 
 .items {
-    height: 80rem;
+    height: 50rem;
     padding: 10rem;
     width: 100%;
     position: relative;
@@ -42,26 +42,26 @@ body {
 }
 
 .item {
-    width: 20rem;
+    width: 15rem;
     height: calc(100% - 4rem);
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    font-size: 8rem;
+    font-size: 5rem;
     color: #00000026;
     box-shadow: inset 0 0 0 1rem #00000026;
 }
 
 .item:nth-child(9n + 1) {
-    background: #da5646;
+    background: #f36758;
 }
 
 .item:nth-child(9n + 2) {
-    background: #191106;
+    background: #eb9e32;
 }
 
 .item:nth-child(9n + 3) {
-    background: #3e160a;
+    background: #2352d2;
 }
 
 .item:nth-child(9n + 4) {
