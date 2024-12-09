@@ -1,1 +1,1 @@
-# click-and-drag-carousell
+# click-and-drag-carousel
