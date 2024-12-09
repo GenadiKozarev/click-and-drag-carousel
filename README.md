@@ -1,10 +1,10 @@
 # click-and-drag-carousel
 
-### 
+### Interactive slider with drag-to-scroll functionality for smooth and responsive user experience.
 
 Live:
 
-Preview:
+Preview: 
 
 Keywords:
 - [perspective](https://developer.mozilla.org/en-US/docs/Web/CSS/perspective)
